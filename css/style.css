@@ -24,6 +24,7 @@ body {
 
 .paragrafo{
     color: white;
+
     
 }
 
@@ -35,6 +36,14 @@ body {
 .center{
     display: flex;
     align-items: center;
+}
+
+.link{
+    text-decoration: none;
+}
+
+.link:hover{
+    color: #ff0043;
 }
 
 @media (max-width: 485px) {
